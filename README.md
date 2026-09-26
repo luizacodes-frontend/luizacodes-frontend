@@ -1,35 +1,37 @@
-# 👨‍💻 Luiz | Front-End Developer
+# 👩‍💻 Maria Luiza | Front-End Developer
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Front-End+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Transformando+ideias+em+interfaces;Sempre+aprendendo+algo+novo+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Olá!+Eu+sou+a+Maria+Luiza+👋;Front-End+Developer+💻;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Transformando+ideias+em+interfaces+✨;Sempre+aprendendo+algo+novo+🚀" />
 
 <br>
 
-### `luizcodes-frontend`
+### `luizacodes-frontend`
 
-**Desenvolvendo interfaces modernas, responsivas e funcionais.**
+**Desenvolvendo, aprendendo e transformando ideias em código. ✨**
 
 </div>
 
 ---
 
-## 👨‍🚀 Sobre mim
+## 🌸 Sobre mim
 
-```javascript
-const luiz = {
-  username: "luizcodes-frontend",
+```javascript id="j3kq7a"
+const mariaLuiza = {
+  name: "Maria Luiza",
+  username: "luizacodes-frontend",
   area: "Front-End Development",
-  learning: ["JavaScript", "React"],
-  technologies: ["HTML", "CSS", "JavaScript", "React"],
-  goal: "Evoluir como desenvolvedor e construir projetos cada vez melhores",
-  status: "Coding... 🚀"
+  learning: ["HTML", "CSS", "JavaScript", "React"],
+  goal: "Transformar ideias em experiências incríveis na web ✨",
+  status: "Learning & Coding... 🚀"
 };
 ```
 
-Sou desenvolvedor **Front-End em evolução**, apaixonado por tecnologia e pelo processo de transformar ideias em aplicações reais.
+Olá! 👋 Sou **Maria Luiza**, estudante de desenvolvimento **Front-End** e apaixonada por tecnologia.
 
-Atualmente estou fortalecendo minha base em **HTML, CSS e JavaScript** e avançando nos estudos de **React**, criando projetos para desenvolver minhas habilidades e meu portfólio.
+Atualmente estou construindo minha base em **HTML, CSS e JavaScript**, enquanto avanço para o desenvolvimento de aplicações com **React**.
+
+Este GitHub é onde registro minha evolução, estudos, experimentos e projetos. 🚀
 
 ---
 
@@ -60,18 +62,24 @@ Atualmente estou fortalecendo minha base em **HTML, CSS e JavaScript** e avança
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Minha jornada
 
-```text
-🌐 Desenvolvimento Web
+```text id="r1k5x8"
+🌐 Front-End
 │
 ├── 📄 HTML
+│   └── Estrutura e semântica
+│
 ├── 🎨 CSS
+│   ├── Flexbox
+│   ├── Grid
+│   └── Responsividade
+│
 ├── ⚡ JavaScript
+│   ├── Lógica
 │   ├── DOM
 │   ├── Eventos
 │   ├── Arrays & Objects
-│   ├── Async / Await
 │   └── APIs
 │
 └── ⚛️ React
@@ -88,9 +96,9 @@ Atualmente estou fortalecendo minha base em **HTML, CSS e JavaScript** e avança
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=luizcodes-frontend&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=luizacodes-frontend&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcodes-frontend&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizacodes-frontend&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -100,17 +108,7 @@ Atualmente estou fortalecendo minha base em **HTML, CSS e JavaScript** e avança
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=luizcodes-frontend&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/luizcodes-frontend/luizcodes-frontend/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://streak-stats.demolab.com?user=luizacodes-frontend&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -118,35 +116,7 @@ Atualmente estou fortalecendo minha base em **HTML, CSS e JavaScript** e avança
 
 # 🚀 Objetivos
 
-- 🧠 Aprimorar minha lógica de programação
+- 🌐 Construir uma base sólida em desenvolvimento web
+- 🎨 Criar interfaces bonitas e responsivas
 - ⚡ Dominar JavaScript
-- ⚛️ Evoluir em React
-- 🎨 Criar interfaces modernas e responsivas
-- 🧩 Desenvolver projetos completos
-- 🌐 Construir um portfólio profissional
-- 💼 Conquistar minha oportunidade como desenvolvedor Front-End
-
----
-
-# 💻 Projetos
-
-<div align="center">
-
-### 🚧 Construindo coisas novas...
-
-</div>
-
-```text
-📦 Projetos
- ┣ 🌐 Landing Pages
- ┣ 📱 Interfaces Responsivas
- ┣ ⚡ Aplicações JavaScript
- ┣ ⚛️ Projetos React
- ┗ 🚀 Projetos para Portfólio
-```
-
-> Os projetos serão adicionados aqui conforme forem desenvolvidos.
-
----
-
-# 📈
+- ⚛️ Apr
