@@ -10,6 +10,10 @@
 ║  ╚══════╝ ╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝ ║
 ╚══════════════════════════════════════╝
 </pre>
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=800&color=A855F7&background=0D0221FF&center=true&vCenter=true&width=700&height=60&lines=MARIA+LUIZA;FRONT-END+DEV;LEVEL+UP+%E2%80%A2+HTML+CSS+JS+REACT" alt="pixel title" />
+
 <pre>
   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⠴⠶⠒⠚⠉⠉⠙⠒⠒⠲⠦⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡴⠛⠁⠀⡸⠀⠀⠀⠀⠀⠀⠈⢦⣠⡀⠀⠈⠙⡲⢄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -41,8 +45,6 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠃⢳⡀⠀⠀⠀⠙⡇⠀⠀⣾⠁⠀⠙⠲⢶⡞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠷⠚⠉⠉⡇⠀⠀⠀⠀⢦⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⣰⣏⣀⣀⣷⣀⣀⣀⣀⣀⣴⣸⣇⣀⣀⣀⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣇⣀⣀⣀⣐⣿⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </pre>
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=800&color=A855F7&background=0D0221FF&center=true&vCenter=true&width=700&height=60&lines=MARIA+LUIZA;FRONT-END+DEV;LEVEL+UP+%E2%80%A2+HTML+CSS+JS+REACT" alt="pixel title" />
 
 ![Profile Views](https://img.shields.io/badge/VISITAS-online-a855f7?style=flat-square)
 ![Status](https://img.shields.io/badge/STATUS-LEARNING%20%26%20CODING-ff2fd0?style=flat-square)
