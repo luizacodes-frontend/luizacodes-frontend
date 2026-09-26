@@ -1,17 +1,32 @@
 <div align="center">
 
-# 👁️‍🗨️ Maria Luiza | Front-End Developer
+<pre>
+█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
+█                                              █
+█   ▓▓▓  ▓▓▓  ▓▓▓▓▓  ▓▓▓ ▓▓▓  ▓▓▓▓▓  ▓▓▓▓▓    █
+█   ▓▓▓▓▓▓▓▓  ▓▓  ▓▓ ▓▓▓ ▓▓▓  ▓▓  ▓▓    █       █
+█   ▓▓ ▓ ▓▓▓  ▓▓▓▓▓  ▓▓▓ ▓▓▓  ▓▓▓▓▓   ▓▓▓      █
+█   ▓▓   ▓▓▓  ▓▓  ▓▓  ▓▓▓▓▓   ▓▓  ▓▓ ▓▓▓       █
+█   ▓▓   ▓▓▓  ▓▓  ▓▓   ▓▓▓    ▓▓  ▓▓ ▓▓▓▓▓    █
+█                                              █
+█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██
+</pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=O+mais+forte+n%C3%A3o+nasce...+se+constr%C3%B3i.;Aprendendo+HTML%2C+CSS%2C+JS+%26+React;Transformando+c%C3%B3digo+em+dom%C3%ADnio+expandido+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=800&color=A855F7&background=0D0221FF&center=true&vCenter=true&width=700&height=60&lines=MARIA+LUIZA;FRONT-END+DEV;LEVEL+UP+%E2%80%A2+HTML+CSS+JS+REACT" alt="pixel title" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=luizacodes-frontend&label=Visitantes&color=1e3a8a&style=flat)
-![Status](https://img.shields.io/badge/status-Learning%20%26%20Coding-1e3a8a?style=flat)
+![Profile Views](https://img.shields.io/badge/VISITAS-online-a855f7?style=flat-square)
+![Status](https://img.shields.io/badge/STATUS-LEARNING%20%26%20CODING-ff2fd0?style=flat-square)
+![Level](https://img.shields.io/badge/LV-front--end%20jr-38bdf8?style=flat-square)
 
 </div>
 
----
+```
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
-### 🔵 Domínio Expandido: Front-End
+### ▓▓ SOBRE MIM
 
 ```js
 const mariaLuiza = {
@@ -28,25 +43,33 @@ Olá! 👋 Sou a **Maria Luiza**, estudante de **Desenvolvimento Front-End**, mo
 
 Aqui, cada repositório é um treino. Cada bug corrigido, uma técnica dominada. E cada deploy... um domínio expandido. 🌌
 
----
+```
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
-### ⚔️ Tech Stack — Minhas Técnicas Amaldiçoadas
+### ▓▓ TECH STACK — MINHAS TÉCNICAS AMALDIÇOADAS
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-1e3a8a?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-a855f7?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
----
+```
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
-### 🌀 Jornada de Treinamento
+### ▓▓ JORNADA DE TREINAMENTO
 
 ```
 🌐 Front-End
@@ -60,25 +83,33 @@ Aqui, cada repositório é um treino. Cada bug corrigido, uma técnica dominada.
 └── ⚛️ React — Components, Props, State, Hooks
 ```
 
-> "Throughout Heaven and Earth, I alone am the honored one" pode ser exagero pra vida real...  
+> "Throughout Heaven and Earth, I alone am the honored one" pode ser exagero pra vida real...
 > mas na hora de debugar às 2h da manhã, é exatamente essa a energia. 😤💻
 
----
+```
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
-### 📊 Estatísticas
+### ▓▓ ESTATÍSTICAS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=luizacodes-frontend&show_icons=true&theme=tokyonight&hide_border=true&title_color=61DAFB&icon_color=1e3a8a&text_color=c9d1d9&bg_color=0d1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizacodes-frontend&layout=compact&theme=tokyonight&hide_border=true&title_color=61DAFB&text_color=c9d1d9&bg_color=0d1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=luizacodes-frontend&show_icons=true&theme=gruvbox&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizacodes-frontend&layout=compact&theme=gruvbox&hide_border=true" width="48%" />
 
-<img src="https://streak-stats.demolab.com?user=luizacodes-frontend&theme=tokyonight&hide_border=true&background=0D1117&ring=61DAFB&fire=1E3A8A&currStreakLabel=61DAFB" width="60%" />
+<img src="https://streak-stats.demolab.com?user=luizacodes-frontend&theme=gruvbox&hide_border=true" width="60%" />
 
 </div>
 
----
+```
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
-### 🎯 Objetivos da Missão
+### ▓▓ OBJETIVOS DA MISSÃO
 
 - 🌐 Construir uma base sólida em desenvolvimento web
 - 🎨 Criar interfaces bonitas, fluidas e responsivas
@@ -86,16 +117,30 @@ Aqui, cada repositório é um treino. Cada bug corrigido, uma técnica dominada.
 - ⚛️ Aprofundar em React e no ecossistema moderno
 - 🚀 Evoluir a cada linha de código, sem limites
 
----
+```
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
 <div align="center">
 
-### 📫 Vamos nos conectar
+<pre>
+ ██   ██       ██   ██
+████ ████     ████ ████
+██████████    ██████████
+ ████████      ████████
+  ██████        ██████
+   ████          ████
+    ██            ██
+</pre>
+
+### ▓▓ VAMOS NOS CONECTAR
 
 <!-- Troque pelos seus links reais -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e3a8a?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-a855f7?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-ff2fd0?style=flat-square&logo=instagram&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-38bdf8?style=flat-square&logo=gmail&logoColor=white)](#)
 
 <br/>
 
